@@ -36,4 +36,4 @@ More info about dataset can be found here:
 
 
 ## GCP
-<img src="data_model.jpeg">
+<img src="Screenshot 2023-06-17 at 13.28.38.png">
