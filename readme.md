@@ -35,5 +35,8 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
 
 
-## GCP
-<img src="Screenshot 2023-06-17 at 13.28.38.png">
+## GCP Tables
+<img src="Screenshot 2023-06-17 at 13.36.09.png">
+
+## Final Dashboard
+<img src="final_dashboard.webp">
